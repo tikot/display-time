@@ -1,0 +1,8 @@
+{
+    "sketch": "display-time.ino",
+    "output": "build",
+    "configuration": "target_core=cm7,split=100_0",
+    "board": "arduino:mbed_giga:giga",
+    "port": "COM17",
+    "programmer": "cmsis-dap"
+}
